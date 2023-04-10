@@ -70,5 +70,5 @@ I am currently working toward the Doctoral degree with the Harbin Institute of T
 - *2014.09 - 2018.06*, College of Computer Science of Technology, Jilin University, Changchun, China. 
 
 # Academic Activities
-- Journal Reviewers of IEEE TNNLS, IEEE TFS, CAAI TRIT
+- Journal Reviewers of IEEE TNNLS, IEEE TCSVT, CAAI TRIT
 - Program Committee Members of AAAI 2023, ACM MM 2022 

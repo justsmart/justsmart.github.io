@@ -55,6 +55,8 @@ I am currently working toward the Doctoral degree with the Harbin Institute of T
 - [Highly Confident Local Structure Based Consensus Graph Learning for Incomplete Multi-view Clustering](https://openaccess.thecvf.com/content/CVPR2023/html/Wen_Highly_Confident_Local_Structure_Based_Consensus_Graph_Learning_for_Incomplete_CVPR_2023_paper.html), Jie Wen, **Chengliang Liu**, Gehui Xu, Zhihao Wu, Chao Huang, Lunke Fei, Yong Xu, **CVPR 2023** (Co-first author, CCF-A)
 
 ## Journal Papers
+- [Information Recovery-Driven Deep Incomplete Multi-view Clustering Network](https://arxiv.org/abs/2304.00429), **Chengliang Liu**, Jie Wen, Zhihao Wu, Xiaoling Luo, Chao Huang, Yong xu, IEEE Transactions on Neural Networks and Learning Systems, 2023 (CCF-B, JCR Q1, IF-14.255)
+
 - [Localized sparse incomplete multi-view clustering](https://arxiv.org/pdf/2208.02998), **Chengliang Liu**, Zhihao Wu, Jie Wen, Yong Xu, Chao Huang, IEEE Transactions on Multimedia, 2022 (CCF-B, JCR Q1, IF-8.182)
 
 - [Deep Double Incomplete Multi-View Multi-Label Learning With Incomplete Labels and Missing Views](https://ieeexplore.ieee.org/abstract/document/10086538/), Jie Wen, **Chengliang Liu**, Shijie Deng, Yicheng Liu, Lunke Fei, Ke Yan, Yong Xu, IEEE Transactions on Neural Networks and Learning Systems, 2023 (Corresponding author, CCF-B, JCR Q1, IF-14.255)

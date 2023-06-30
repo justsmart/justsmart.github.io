@@ -24,6 +24,7 @@ I am currently working toward the Doctoral degree with the Harbin Institute of T
 
 # News
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+- *2023.06*: Our paper is accepted by TNNLS! 
 - *2023.03*: Our paper is accepted by TNNLS! 
 - *2023.02*: Our paper is accepted by CVPR 2023! 
 - *2023.02*: We win the AAAI 2023 distinguished paper award! 

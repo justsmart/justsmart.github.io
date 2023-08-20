@@ -34,7 +34,7 @@ I am currently working toward the Doctoral degree with the Harbin Institute of T
 # Publications 
 
 ## Conference Papers
-- [	Localized and Balanced Efficient Incomplete Multi-view Clustering](), Jie Wen, Gehui Xu, **Chengliang Liu**, Lunke Fei, Chao Huang, Wei Wang, Yong Xu, **CVPR 2023** (Corresponding author, CCF-A)
+- [	Localized and Balanced Efficient Incomplete Multi-view Clustering](), Jie Wen, Gehui Xu, **Chengliang Liu**, Lunke Fei, Chao Huang, Wei Wang, Yong Xu, **ACM MM 2023** (Corresponding author, CCF-A)
 
 - [Highly Confident Local Structure Based Consensus Graph Learning for Incomplete Multi-view Clustering](https://openaccess.thecvf.com/content/CVPR2023/html/Wen_Highly_Confident_Local_Structure_Based_Consensus_Graph_Learning_for_Incomplete_CVPR_2023_paper.html), Jie Wen, **Chengliang Liu**, Gehui Xu, Zhihao Wu, Chao Huang, Lunke Fei, Yong Xu, **CVPR 2023** (Co-first author, CCF-A)
 

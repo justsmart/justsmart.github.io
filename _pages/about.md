@@ -34,9 +34,12 @@ I am currently working toward the Doctoral degree with the Harbin Institute of T
 # Publications 
 
 ## Conference Papers
+- [	Localized and Balanced Efficient Incomplete Multi-view Clustering](), Jie Wen, Gehui Xu, **Chengliang Liu**, Lunke Fei, Chao Huang, Wei Wang, Yong Xu, **CVPR 2023** (Corresponding author, CCF-A)
+
+- [Highly Confident Local Structure Based Consensus Graph Learning for Incomplete Multi-view Clustering](https://openaccess.thecvf.com/content/CVPR2023/html/Wen_Highly_Confident_Local_Structure_Based_Consensus_Graph_Learning_for_Incomplete_CVPR_2023_paper.html), Jie Wen, **Chengliang Liu**, Gehui Xu, Zhihao Wu, Chao Huang, Lunke Fei, Yong Xu, **CVPR 2023** (Co-first author, CCF-A)
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023</div><img src='images/DICNet.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
 (Oral) [DICNet: Deep Instance-Level Contrastive Network for Double Incomplete Multi-View Multi-Label Classification](https://arxiv.org/pdf/2303.08358.pdf) (CCF-A)
 
 **Chengliang Liu**, Jie Wen, Xiaoling Luo, Chao Huang, Zhihao Wu, Yong Xu
@@ -48,19 +51,19 @@ I am currently working toward the Doctoral degree with the Harbin Institute of T
 
 - (Oral) [Incomplete Multi-View Multi-Label Learning via Label-Guided Masked View-and Category-Aware Transformers](https://arxiv.org/pdf/2303.07180), **Chengliang Liu**, Jie Wen, Xiaoling Luo, Yong Xu, **AAAI 2023** (CCF-A)
 
-- (Oral) MVCINN: Multi-View Diabetic Retinopathy Detection Using a Deep Cross-Interaction Neural Network, Xiaoling Luo, **Chengliang Liu**, Waikeung Wong, Jie Wen, Xiaopeng Jin
+- (Oral) [MVCINN: Multi-View Diabetic Retinopathy Detection Using a Deep Cross-Interaction Neural Network](https://ojs.aaai.org/index.php/AAAI/article/download/26080/25852), Xiaoling Luo, **Chengliang Liu**, Waikeung Wong, Jie Wen, Xiaopeng Jin
 , Yong Xu, **AAAI 2023** (Co-first author, CCF-A)
 
 - [Pixel-Level Anomaly Detection via Uncertainty-Aware Prototypical Transformer](https://scholar.archive.org/work/tlli7rstvzfcrivc4rnvlcclmi/access/wayback/https://dl.acm.org/doi/pdf/10.1145/3503161.3548082), Chao Huang, **Chengliang Liu**, Zheng Zhang, Zhihao Wu, Jie Wen, Qiuping Jiang, Yong Xu, **ACM MM 2022** (Co-first author, CCF-A)
 
-- [Highly Confident Local Structure Based Consensus Graph Learning for Incomplete Multi-view Clustering](https://openaccess.thecvf.com/content/CVPR2023/html/Wen_Highly_Confident_Local_Structure_Based_Consensus_Graph_Learning_for_Incomplete_CVPR_2023_paper.html), Jie Wen, **Chengliang Liu**, Gehui Xu, Zhihao Wu, Chao Huang, Lunke Fei, Yong Xu, **CVPR 2023** (Co-first author, CCF-A)
+
 
 ## Journal Papers
 - [Information Recovery-Driven Deep Incomplete Multi-view Clustering Network](https://arxiv.org/abs/2304.00429), **Chengliang Liu**, Jie Wen, Zhihao Wu, Xiaoling Luo, Chao Huang, Yong xu, IEEE Transactions on Neural Networks and Learning Systems, 2023 (CCF-B, JCR Q1, IF-14.255)
 
-- [Localized sparse incomplete multi-view clustering](https://arxiv.org/pdf/2208.02998), **Chengliang Liu**, Zhihao Wu, Jie Wen, Yong Xu, Chao Huang, IEEE Transactions on Multimedia, 2022 (CCF-B, JCR Q1, IF-8.182)
-
 - [Deep Double Incomplete Multi-View Multi-Label Learning With Incomplete Labels and Missing Views](https://ieeexplore.ieee.org/abstract/document/10086538/), Jie Wen, **Chengliang Liu**, Shijie Deng, Yicheng Liu, Lunke Fei, Ke Yan, Yong Xu, IEEE Transactions on Neural Networks and Learning Systems, 2023 (Corresponding author, CCF-B, JCR Q1, IF-14.255)
+
+- [Localized sparse incomplete multi-view clustering](https://arxiv.org/pdf/2208.02998), **Chengliang Liu**, Zhihao Wu, Jie Wen, Yong Xu, Chao Huang, IEEE Transactions on Multimedia, 2022 (CCF-B, JCR Q1, IF-8.182)
 
 - [Weakly Supervised Video Anomaly Detection via Self-Guided Temporal Discriminative Transformer](https://ieeexplore.ieee.org/abstract/document/10002867/), Chao Huang, **Chengliang Liu**, Jie Wen, Lian Wu, Yong Xu, Qiuping Jiang, Yaowei Wang, IEEE Transactions on Cybernetics, 2022 (Co-first author, CCF-B, JCR Q1, IF-19.118)
 

@@ -46,7 +46,7 @@ I am currently working toward the Doctoral degree with the Harbin Institute of T
 - [AAAI 2023 distinguished paper award](https://aihub.org/2023/02/11/congratulations-to-the-aaai2023-best-paper-winners/)
 </div>
 </div>
-- Localized and Balanced Efficient Incomplete Multi-view Clustering, **Chengliang Liu**, Jie Wen, Yabo Liu, Chao Huang, Zhihao Wu, Xiaoling Luo, Yong XuJ, **NeurIPS 2023** (CCF-A)
+- Masked Two-channel Decoupling Framework for Incomplete Multi-view Weak Multi-label Learning, **Chengliang Liu**, Jie Wen, Yabo Liu, Chao Huang, Zhihao Wu, Xiaoling Luo, Yong XuJ, **NeurIPS 2023** (CCF-A)
 
 - [Localized and Balanced Efficient Incomplete Multi-view Clustering](), Jie Wen, Gehui Xu, **Chengliang Liu**, Lunke Fei, Chao Huang, Wei Wang, Yong Xu, **ACM MM 2023** (Corresponding author, CCF-A)
 

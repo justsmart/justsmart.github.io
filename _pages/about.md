@@ -71,6 +71,7 @@ I am currently working toward the Doctoral degree with the Harbin Institute of T
 - [Weakly Supervised Video Anomaly Detection via Self-Guided Temporal Discriminative Transformer](https://ieeexplore.ieee.org/abstract/document/10002867/), Chao Huang, **Chengliang Liu**, Jie Wen, Lian Wu, Yong Xu, Qiuping Jiang, Yaowei Wang, IEEE Transactions on Cybernetics, 2022 (Co-first author, CCF-B, JCR Q1, IF-19.118)
 
 # Honors and Awards
+- *2023.10* National scholarship.
 - *2023.02* [AAAI 2023 distinguished paper award](https://aihub.org/2023/02/11/congratulations-to-the-aaai2023-best-paper-winners/).
 
 # Educations
@@ -80,4 +81,4 @@ I am currently working toward the Doctoral degree with the Harbin Institute of T
 
 # Academic Activities
 - Journal Reviewers of IEEE TNNLS, IEEE TCSVT, CAAI TRIT
-- Program Committee Members of AAAI 2023, ACM MM 2022 
+- Program Committee Members of AAAI, ACM MM 

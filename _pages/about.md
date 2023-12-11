@@ -24,6 +24,7 @@ I am currently working toward the Doctoral degree with the Harbin Institute of T
 
 # News
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+- *2023.12*: Our paper is accepted by AAAI 2024! 
 - *2023.09*: Our paper is accepted by NeurIPS 2023! 
 - *2023.07*: Our paper is accepted by ACM MM 2023! 
 - *2023.06*: Our paper is accepted by TNNLS! 

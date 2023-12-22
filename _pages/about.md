@@ -35,7 +35,7 @@ I am currently working toward the Doctoral degree with the Harbin Institute of T
 - *2022.06*: Our paper is accepted by ACM MM 2022!
 
 # Publications 
-\* Co-first author  &nbsp;&nbsp;&nbsp;\# Corresponding author
+<!-- \* Co-first author  &nbsp;&nbsp;&nbsp;\# Corresponding author -->
 ## Conference Papers
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023</div><img src='images/DICNet.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">

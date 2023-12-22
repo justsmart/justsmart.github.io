@@ -35,44 +35,46 @@ I am currently working toward the Doctoral degree with the Harbin Institute of T
 - *2022.06*: Our paper is accepted by ACM MM 2022!
 
 # Publications 
-
+\* Co-first author  &nbsp;&nbsp;&nbsp;\# Corresponding author
 ## Conference Papers
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023</div><img src='images/DICNet.jpg' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023</div><img src='images/DICNet.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 (Oral) [DICNet: Deep Instance-Level Contrastive Network for Double Incomplete Multi-View Multi-Label Classification](https://arxiv.org/pdf/2303.08358.pdf) (CCF-A)
 
 **Chengliang Liu**, Jie Wen, Xiaoling Luo, Chao Huang, Zhihao Wu, Yong Xu
 
 <!--[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>-->
-- [AAAI 2023 distinguished paper award](https://aihub.org/2023/02/11/congratulations-to-the-aaai2023-best-paper-winners/)
-</div>
-</div>
+<!-- - [AAAI 2023 distinguished paper award](https://aihub.org/2023/02/11/congratulations-to-the-aaai2023-best-paper-winners/) -->
+<!-- </div> -->
+<!-- </div> -->
 
-- Attention-Induced Embedding Imputation for Incomplete Multi-View Partial Multi-Label Classification, **Chengliang Liu**, Jinlong Jia, Jie Wen, Yabo Liu, Xiaoling Luo, Chao Huang, Yong Xu, **AAAI 2024**  (CCF-A)
+- Attention-Induced Embedding Imputation for Incomplete Multi-View Partial Multi-Label Classification, **Chengliang Liu**, Jinlong Jia, Jie Wen, Yabo Liu, Xiaoling Luo, Chao Huang, Yong Xu, **AAAI 2024**  
 
-- Masked Two-channel Decoupling Framework for Incomplete Multi-view Weak Multi-label Learning, **Chengliang Liu**, Jie Wen, Yabo Liu, Chao Huang, Zhihao Wu, Xiaoling Luo, Yong XuJ, **NeurIPS 2023** (CCF-A)
+- [Masked Two-channel Decoupling Framework for Incomplete Multi-view Weak Multi-label Learning](https://openreview.net/forum?id=U4pFV192JQ), **Chengliang Liu**, Jie Wen, Yabo Liu, Chao Huang, Zhihao Wu, Xiaoling Luo, Yong XuJ, **NeurIPS 2023** 
 
-- [Localized and Balanced Efficient Incomplete Multi-view Clustering](), Jie Wen, Gehui Xu, **Chengliang Liu**, Lunke Fei, Chao Huang, Wei Wang, Yong Xu, **ACM MM 2023** (Corresponding author, CCF-A)
+- [Localized and Balanced Efficient Incomplete Multi-view Clustering](https://dl.acm.org/doi/abs/10.1145/3581783.3612545), Jie Wen, Gehui Xu, **Chengliang Liu**, Lunke Fei, Chao Huang, Wei Wang, Yong Xu, **ACM MM 2023** (Corresponding author)
 
-- [Highly Confident Local Structure Based Consensus Graph Learning for Incomplete Multi-view Clustering](https://openaccess.thecvf.com/content/CVPR2023/html/Wen_Highly_Confident_Local_Structure_Based_Consensus_Graph_Learning_for_Incomplete_CVPR_2023_paper.html), Jie Wen, **Chengliang Liu**, Gehui Xu, Zhihao Wu, Chao Huang, Lunke Fei, Yong Xu, **CVPR 2023** (Co-first author, CCF-A)
+- [Highly Confident Local Structure Based Consensus Graph Learning for Incomplete Multi-view Clustering](https://openaccess.thecvf.com/content/CVPR2023/html/Wen_Highly_Confident_Local_Structure_Based_Consensus_Graph_Learning_for_Incomplete_CVPR_2023_paper.html), Jie Wen, **Chengliang Liu**, Gehui Xu, Zhihao Wu, Chao Huang, Lunke Fei, Yong Xu, **CVPR 2023** (Co-first author)
 
-- (Oral) [Incomplete Multi-View Multi-Label Learning via Label-Guided Masked View-and Category-Aware Transformers](https://arxiv.org/pdf/2303.07180), **Chengliang Liu**, Jie Wen, Xiaoling Luo, Yong Xu, **AAAI 2023** (CCF-A)
+- (Oral) [DICNet: Deep Instance-Level Contrastive Network for Double Incomplete Multi-View Multi-Label Classification](https://arxiv.org/pdf/2303.07180), **Chengliang Liu**, Jie Wen, Xiaoling Luo, Chao Huang, Zhihao Wu, Yong Xu, **AAAI 2023** ([AAAI 2023 distinguished paper award](https://aihub.org/2023/02/11/congratulations-to-the-aaai2023-best-paper-winners/))
+
+- (Oral) [Incomplete Multi-View Multi-Label Learning via Label-Guided Masked View-and Category-Aware Transformers](https://arxiv.org/pdf/2303.07180), **Chengliang Liu**, Jie Wen, Xiaoling Luo, Yong Xu, **AAAI 2023** 
 
 - (Oral) [MVCINN: Multi-View Diabetic Retinopathy Detection Using a Deep Cross-Interaction Neural Network](https://ojs.aaai.org/index.php/AAAI/article/download/26080/25852), Xiaoling Luo, **Chengliang Liu**, Waikeung Wong, Jie Wen, Xiaopeng Jin
-, Yong Xu, **AAAI 2023** (Co-first author, CCF-A)
+, Yong Xu, **AAAI 2023** (Co-first author)
 
-- [Pixel-Level Anomaly Detection via Uncertainty-Aware Prototypical Transformer](https://scholar.archive.org/work/tlli7rstvzfcrivc4rnvlcclmi/access/wayback/https://dl.acm.org/doi/pdf/10.1145/3503161.3548082), Chao Huang, **Chengliang Liu**, Zheng Zhang, Zhihao Wu, Jie Wen, Qiuping Jiang, Yong Xu, **ACM MM 2022** (Co-first author, CCF-A)
+- [Pixel-Level Anomaly Detection via Uncertainty-Aware Prototypical Transformer](https://scholar.archive.org/work/tlli7rstvzfcrivc4rnvlcclmi/access/wayback/https://dl.acm.org/doi/pdf/10.1145/3503161.3548082), Chao Huang, **Chengliang Liu**, Zheng Zhang, Zhihao Wu, Jie Wen, Qiuping Jiang, Yong Xu, **ACM MM 2022** (Co-first author)
 
 
 
 ## Journal Papers
-- [Information Recovery-Driven Deep Incomplete Multi-view Clustering Network](https://arxiv.org/abs/2304.00429), **Chengliang Liu**, Jie Wen, Zhihao Wu, Xiaoling Luo, Chao Huang, Yong xu, IEEE Transactions on Neural Networks and Learning Systems, 2023 (CCF-B, JCR Q1, IF-14.255)
+- [Information Recovery-Driven Deep Incomplete Multi-view Clustering Network](https://arxiv.org/abs/2304.00429), **Chengliang Liu**, Jie Wen, Zhihao Wu, Xiaoling Luo, Chao Huang, Yong xu, IEEE Transactions on Neural Networks and Learning Systems, 2023 
 
-- [Deep Double Incomplete Multi-View Multi-Label Learning With Incomplete Labels and Missing Views](https://ieeexplore.ieee.org/abstract/document/10086538/), Jie Wen, **Chengliang Liu**, Shijie Deng, Yicheng Liu, Lunke Fei, Ke Yan, Yong Xu, IEEE Transactions on Neural Networks and Learning Systems, 2023 (Corresponding author, CCF-B, JCR Q1, IF-14.255)
+- [Deep Double Incomplete Multi-View Multi-Label Learning With Incomplete Labels and Missing Views](https://ieeexplore.ieee.org/abstract/document/10086538/), Jie Wen, **Chengliang Liu**, Shijie Deng, Yicheng Liu, Lunke Fei, Ke Yan, Yong Xu, IEEE Transactions on Neural Networks and Learning Systems, 2023 (Corresponding author)
 
-- [Localized sparse incomplete multi-view clustering](https://arxiv.org/pdf/2208.02998), **Chengliang Liu**, Zhihao Wu, Jie Wen, Yong Xu, Chao Huang, IEEE Transactions on Multimedia, 2022 (CCF-B, JCR Q1, IF-8.182)
+- [Localized sparse incomplete multi-view clustering](https://arxiv.org/pdf/2208.02998), **Chengliang Liu**, Zhihao Wu, Jie Wen, Yong Xu, Chao Huang, IEEE Transactions on Multimedia, 2022 
 
-- [Weakly Supervised Video Anomaly Detection via Self-Guided Temporal Discriminative Transformer](https://ieeexplore.ieee.org/abstract/document/10002867/), Chao Huang, **Chengliang Liu**, Jie Wen, Lian Wu, Yong Xu, Qiuping Jiang, Yaowei Wang, IEEE Transactions on Cybernetics, 2022 (Co-first author, CCF-B, JCR Q1, IF-19.118)
+- [Weakly Supervised Video Anomaly Detection via Self-Guided Temporal Discriminative Transformer](https://ieeexplore.ieee.org/abstract/document/10002867/), Chao Huang, **Chengliang Liu**, Jie Wen, Lian Wu, Yong Xu, Qiuping Jiang, Yaowei Wang, IEEE Transactions on Cybernetics, 2022 (Co-first author)
 
 # Honors and Awards
 - *2023.10* National scholarship.

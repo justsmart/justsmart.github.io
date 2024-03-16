@@ -58,7 +58,7 @@ I am currently working toward the Doctoral degree with the Harbin Institute of T
 
 - (Oral) [DICNet: Deep Instance-Level Contrastive Network for Double Incomplete Multi-View Multi-Label Classification](https://arxiv.org/pdf/2303.07180), **Chengliang Liu**, Jie Wen, Xiaoling Luo, Chao Huang, Zhihao Wu, Yong Xu, **AAAI 2023** ([AAAI 2023 distinguished paper award](https://aihub.org/2023/02/11/congratulations-to-the-aaai2023-best-paper-winners/))
 
-- (Oral) [Incomplete Multi-View Multi-Label Learning via Label-Guided Masked View-and Category-Aware Transformers](https://arxiv.org/pdf/2303.07180), **Chengliang Liu**, Jie Wen, Xiaoling Luo, Yong Xu, **AAAI 2023** 
+- (Oral) [Incomplete Multi-View Multi-Label Learning via Label-Guided Masked View- and Category-Aware Transformers](https://arxiv.org/pdf/2303.07180), **Chengliang Liu**, Jie Wen, Xiaoling Luo, Yong Xu, **AAAI 2023** 
 
 - (Oral) [MVCINN: Multi-View Diabetic Retinopathy Detection Using a Deep Cross-Interaction Neural Network](https://ojs.aaai.org/index.php/AAAI/article/download/26080/25852), Xiaoling Luo, **Chengliang Liu**, Waikeung Wong, Jie Wen, Xiaopeng Jin
 , Yong Xu, **AAAI 2023** (Co-first author)

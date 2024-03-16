@@ -50,7 +50,7 @@ I am currently working toward the Doctoral degree with the Harbin Institute of T
 
 - Attention-Induced Embedding Imputation for Incomplete Multi-View Partial Multi-Label Classification, **Chengliang Liu**, Jinlong Jia, Jie Wen, Yabo Liu, Xiaoling Luo, Chao Huang, Yong Xu, **AAAI 2024**  
 
-- [Masked Two-channel Decoupling Framework for Incomplete Multi-view Weak Multi-label Learning](https://openreview.net/forum?id=U4pFV192JQ), **Chengliang Liu**, Jie Wen, Yabo Liu, Chao Huang, Zhihao Wu, Xiaoling Luo, Yong XuJ, **NeurIPS 2023** 
+- [Masked Two-channel Decoupling Framework for Incomplete Multi-view Weak Multi-label Learning](https://openreview.net/forum?id=U4pFV192JQ), **Chengliang Liu**, Jie Wen, Yabo Liu, Chao Huang, Zhihao Wu, Xiaoling Luo, Yong Xu, **NeurIPS 2023** 
 
 - [Localized and Balanced Efficient Incomplete Multi-view Clustering](https://dl.acm.org/doi/abs/10.1145/3581783.3612545), Jie Wen, Gehui Xu, **Chengliang Liu**, Lunke Fei, Chao Huang, Wei Wang, Yong Xu, **ACM MM 2023** (Corresponding author)
 

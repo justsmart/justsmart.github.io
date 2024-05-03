@@ -48,7 +48,7 @@ I am currently working toward the Doctoral degree with the Harbin Institute of T
 <!-- - [AAAI 2023 distinguished paper award](https://aihub.org/2023/02/11/congratulations-to-the-aaai2023-best-paper-winners/) -->
 <!-- </div> -->
 <!-- </div> -->
-- Partial Multi-View Multi-Label Classification via Semantic Invariance Learning and Prototype Modeling, **Chengliang Liu**, Gehui Xu, Jie Wen*, Yabo Liu, Chao Huang, Yong Xu*, **ICML 2024**
+- Partial Multi-View Multi-Label Classification via Semantic Invariance Learning and Prototype Modeling, **Chengliang Liu**, Gehui Xu, Jie Wen<sup>*</sup>, Yabo Liu, Chao Huang, Yong Xu<sup>*</sup>, **ICML 2024**
 
 - [Attention-Induced Embedding Imputation for Incomplete Multi-View Partial Multi-Label Classification](https://ojs.aaai.org/index.php/AAAI/article/view/29293/30438), **Chengliang Liu**, Jinlong Jia, Jie Wen<sup>*</sup>, Yabo Liu, Xiaoling Luo, Chao Huang, Yong Xu<sup>*</sup>, **AAAI 2024**  
 

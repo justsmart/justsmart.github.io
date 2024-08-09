@@ -79,6 +79,7 @@ I am currently a Post-Doctoral Fellow at the CSE of the Hong Kong University of 
 - [Weakly Supervised Video Anomaly Detection via Self-Guided Temporal Discriminative Transformer](https://ieeexplore.ieee.org/abstract/document/10002867/), Chao Huang<sup>✝</sup>, **Chengliang Liu**<sup>✝</sup>, Jie Wen, Lian Wu, Yong Xu<sup>*</sup>, Qiuping Jiang, Yaowei Wang, IEEE Transactions on Cybernetics, 2022 (Co-first author)
 
 # Honors and Awards
+- *2024.06* HIT Outstanding Doctoral Dissertation Award.
 - *2023.10* National scholarship.
 - *2023.02* [AAAI 2023 distinguished paper award](https://aihub.org/2023/02/11/congratulations-to-the-aaai2023-best-paper-winners/).
 
@@ -88,5 +89,5 @@ I am currently a Post-Doctoral Fellow at the CSE of the Hong Kong University of 
 - *2014.09 - 2018.06*, College of Computer Science of Technology, Jilin University, Changchun, China. 
 
 # Academic Activities
-- Journal Reviewers of IEEE TNNLS, IEEE TCSVT, CAAI TRIT
-- Program Committee Members of AAAI, ACM MM 
+- Journal Reviewers of IEEE TNNLS, TCSVT, TMM, TKDE, TCYB, TIP.
+- Program Committee Members of AAAI, ACM MM, CVPR, ICML, NeurIPS.

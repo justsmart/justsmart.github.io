@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Chengliang Liu (刘成亮)"
-description              : "PhD student at Harbin Institute of Technology, Shenzhen"
+description              : "Postdoctoral fellow at The Hong Kong University of Science and Technology"
 repository               : "justsmart/justsmart.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -24,7 +24,7 @@ author:
   name             : "Chengliang Liu"
   avatar           : "images/me.jpg"
   bio              : ""
-  location         : "Shenzhen, China"
+  location         : "Hong Kong, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=ZfVmxqkAAAAJ&hl=zh-CN"

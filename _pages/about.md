@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Post-Doctoral Fellow at the CSE of the Hong Kong University of Science and Technology with [Hao Chen (陈浩)](https://scholar.google.com/citations?user=Z_t5DjwAAAAJ). I got my PhD in the School of Computer Science and Technology at Harbin Institute of Technology, Shenzhen, advised by [Yong Xu (徐勇)](http://faculty.hitsz.edu.cn/xuyong) and [Jie Wen (文杰)](https://sites.google.com/view/jerry-wen-hit/home?authuser=0). I graduated from Jilin University with a bachelor’s degree in computer science and from Huazhong University of Science and Technology with a master's degree in computer science. My research interests include machine learning and computer vision, especially multi-view/multimodal representation learning.
+I was a Post-Doctoral Fellow at the CSE of the Hong Kong University of Science and Technology. I got my PhD in the School of Computer Science and Technology at Harbin Institute of Technology, Shenzhen, advised by [Yong Xu (徐勇)](http://faculty.hitsz.edu.cn/xuyong) and [Jie Wen (文杰)](https://sites.google.com/view/jerry-wen-hit/home?authuser=0). I graduated from Jilin University with a bachelor’s degree in computer science and from Huazhong University of Science and Technology with a master's degree in computer science. My research interests include machine learning and computer vision, especially multi-view/multimodal representation learning.
 
 <!--My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).-->
 
@@ -86,11 +86,12 @@ I am currently a Post-Doctoral Fellow at the CSE of the Hong Kong University of 
 - *2023.02* [AAAI 2023 distinguished paper award](https://aihub.org/2023/02/11/congratulations-to-the-aaai2023-best-paper-winners/).
 
 # Educations
-- *2020.09 - 2024.06*, School of Computer Science of Technology, Harbin Institute of Technology, Shenzhen, China. 
-- *2018.09 - 2020.06*, School of Computer Science of Technology, Huazhong University of Science and Technology, Wuhan, China. 
-- *2014.09 - 2018.06*, College of Computer Science of Technology, Jilin University, Changchun, China. 
+- School of Computer Science of Technology, Harbin Institute of Technology, Shenzhen, China. 
+- School of Computer Science of Technology, Huazhong University of Science and Technology, Wuhan, China. 
+- College of Computer Science of Technology, Jilin University, Changchun, China. 
 
 # Academic Activities
 - Journal Reviewers of IEEE TNNLS, TCSVT, TMM, TKDE, TCYB, TIP.
 - SPC member of IJCAI 2025.  
 - Program Committee Members of AAAI, ACM MM, CVPR, ICML, NeurIPS.
+             

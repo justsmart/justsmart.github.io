@@ -24,7 +24,7 @@ I was a Post-Doctoral Fellow at the CSE of the Hong Kong University of Science a
 
 # News
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
-
+- *2025.02*: Our paper is accepted by TPAMI! 
 - *2024.05*: Our paper is accepted by ICML 2024! 
 - *2023.12*: Our paper is accepted by AAAI 2024! 
 - *2023.09*: Our paper is accepted by NeurIPS 2023! 
@@ -71,6 +71,8 @@ I was a Post-Doctoral Fellow at the CSE of the Hong Kong University of Science a
 
 
 ## Journal Papers
+- [Reliable Representation Learning for Incomplete Multi-View Missing Multi-Label Classification](https://arxiv.org/html/2303.17117v2), **Chengliang Liu**, Jie Wen<sup>*</sup>, Yong Xu<sup>*</sup>, Bob Zhang, Liqiang Nie, Min Zhang, IEEE Transactions on Pattern Analysis and Machine Intelligence, 2025 
+
 - [Information Recovery-Driven Deep Incomplete Multi-view Clustering Network](https://arxiv.org/abs/2304.00429), **Chengliang Liu**, Jie Wen<sup>*</sup>, Zhihao Wu, Xiaoling Luo, Chao Huang, Yong Xu, IEEE Transactions on Neural Networks and Learning Systems, 2023 
 
 - [Deep Double Incomplete Multi-View Multi-Label Learning With Incomplete Labels and Missing Views](https://ieeexplore.ieee.org/abstract/document/10086538/), Jie Wen, **Chengliang Liu**<sup>*</sup>, Shijie Deng, Yicheng Liu, Lunke Fei, Ke Yan, Yong Xu, IEEE Transactions on Neural Networks and Learning Systems, 2023 (Corresponding author)

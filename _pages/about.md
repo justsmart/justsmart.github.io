@@ -71,7 +71,7 @@ I was a Post-Doctoral Fellow at the CSE of the Hong Kong University of Science a
 
 
 ## Journal Papers
-- [Reliable Representation Learning for Incomplete Multi-View Missing Multi-Label Classification](https://arxiv.org/html/2303.17117v2), **Chengliang Liu**, Jie Wen<sup>*</sup>, Yong Xu<sup>*</sup>, Bob Zhang, Liqiang Nie, Min Zhang, IEEE Transactions on Pattern Analysis and Machine Intelligence, 2025 
+- [Reliable Representation Learning for Incomplete Multi-View Missing Multi-Label Classification](https://arxiv.org/html/2303.17117v3), **Chengliang Liu**, Jie Wen<sup>*</sup>, Yong Xu<sup>*</sup>, Bob Zhang, Liqiang Nie, Min Zhang, IEEE Transactions on Pattern Analysis and Machine Intelligence, 2025 
 
 - [Information Recovery-Driven Deep Incomplete Multi-view Clustering Network](https://arxiv.org/abs/2304.00429), **Chengliang Liu**, Jie Wen<sup>*</sup>, Zhihao Wu, Xiaoling Luo, Chao Huang, Yong Xu, IEEE Transactions on Neural Networks and Learning Systems, 2023 
 
@@ -84,7 +84,7 @@ I was a Post-Doctoral Fellow at the CSE of the Hong Kong University of Science a
 # Honors and Awards
 - *2024.11* ACM MM 2024 Outstanding reviewer.
 - *2024.06* HIT Outstanding Doctoral Dissertation Award.
-- *2023.10* National Scholarship.
+- *2023.10* National Scholarship of the Ministry of Education of China.
 - *2023.02* [AAAI 2023 distinguished paper award](https://aihub.org/2023/02/11/congratulations-to-the-aaai2023-best-paper-winners/).
 
 # Educations
@@ -93,7 +93,7 @@ I was a Post-Doctoral Fellow at the CSE of the Hong Kong University of Science a
 - College of Computer Science of Technology, Jilin University, Changchun, China. 
 
 # Academic Activities
-- Journal Reviewers of IEEE TNNLS, TCSVT, TMM, TKDE, TCYB, TIP.
-- SPC member of IJCAI 2025.  
+- Journal Reviewers of IEEE TPAMI, TNNLS, TCSVT, TMM, TKDE, TCYB, TIP.
+- Senior Program Committee member of IJCAI 2025.  
 - Program Committee Members of AAAI, ACM MM, CVPR, ICML, NeurIPS.
              

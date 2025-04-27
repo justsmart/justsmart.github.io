@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Post-Doctoral Fellow at The Hong Kong Polytechnic University. I got my PhD in the School of Computer Science and Technology at Harbin Institute of Technology, Shenzhen. Before that, I graduated from Jilin University with a bachelor’s degree in computer science and from Huazhong University of Science and Technology with a master's degree in computer science. My research interests include machine learning and computer vision, especially multi-view/multimodal representation learning.
+I am currently a Post-Doctoral Fellow at The Hong Kong Polytechnic University. I got my PhD in the School of Computer Science and Technology at Harbin Institute of Technology, Shenzhen. Before that, I graduated from Jilin University with a bachelor’s degree in computer science and from Huazhong University of Science and Technology with a master's degree in computer science. My research interests include machine learning and computer vision, especially multi-view/multimodal representation learning.
 
 <!--My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).-->
 
@@ -95,5 +95,5 @@ I am a Post-Doctoral Fellow at The Hong Kong Polytechnic University. I got my Ph
 # Academic Activities
 - Journal Reviewers of IEEE TPAMI, TNNLS, TCSVT, TMM, TKDE, TCYB, TIP.
 - Senior Program Committee member of IJCAI 2025.  
-- Program Committee Members of AAAI, ACM MM, CVPR, ICML, NeurIPS.
+- Program Committee Members of AAAI, ACM MM, CVPR, ICML, NeurIPS, ICLR, ICCV.
              

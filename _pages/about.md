@@ -49,6 +49,8 @@ I am currently a Post-Doctoral Fellow at The Hong Kong Polytechnic University. I
 <!-- - [AAAI 2023 distinguished paper award](https://aihub.org/2023/02/11/congratulations-to-the-aaai2023-best-paper-winners/) -->
 <!-- </div> -->
 <!-- </div> -->
+- [Learning Compact Semantic Information for Incomplete Multi-View Missing Multi-Label Classification](), Jie Wen, Yadong Liu, **Chengliang Liu**<sup>*</sup>, Zhanyan Tang, Yuting He, Yulong Chen, Mu Li, **ICML 2025** (Corresponding author)
+
 - [Partial Multi-View Multi-Label Classification via Semantic Invariance Learning and Prototype Modeling](https://openreview.net/forum?id=5ap1MmUqO6), **Chengliang Liu**, Gehui Xu, Jie Wen<sup>*</sup>, Yabo Liu, Chao Huang, Yong Xu<sup>*</sup>, **ICML 2024**
 
 - [Attention-Induced Embedding Imputation for Incomplete Multi-View Partial Multi-Label Classification](https://ojs.aaai.org/index.php/AAAI/article/view/29293/30438), **Chengliang Liu**, Jinlong Jia, Jie Wen<sup>*</sup>, Yabo Liu, Xiaoling Luo, Chao Huang, Yong Xu<sup>*</sup>, **AAAI 2024**  

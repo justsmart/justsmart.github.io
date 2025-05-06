@@ -24,6 +24,7 @@ I am currently a Post-Doctoral Fellow at The Hong Kong Polytechnic University. I
 
 # News
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+- *2025.05*: Our paper is accepted by ICML 2025! 
 - *2025.02*: Our paper is accepted by TPAMI! 
 - *2024.05*: Our paper is accepted by ICML 2024! 
 - *2023.12*: Our paper is accepted by AAAI 2024! 

@@ -24,6 +24,7 @@ I am currently a Post-Doctoral Fellow at The Hong Kong Polytechnic University. I
 
 # News
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+- *2025.09*: Our paper is accepted by NeurIPS 2025! 
 - *2025.05*: Our paper is accepted by ICML 2025! 
 - *2025.02*: Our paper is accepted by TPAMI! 
 - *2024.05*: Our paper is accepted by ICML 2024! 
@@ -50,6 +51,8 @@ I am currently a Post-Doctoral Fellow at The Hong Kong Polytechnic University. I
 <!-- - [AAAI 2023 distinguished paper award](https://aihub.org/2023/02/11/congratulations-to-the-aaai2023-best-paper-winners/) -->
 <!-- </div> -->
 <!-- </div> -->
+- [Hierarchical Information Aggregation for Incomplete Multimodal Alzheimer's Disease Diagnosis](), **Chengliang Liu**, Que Yuanxi, Yabo Liu, Jie Wen, Jinghua Wang, Xiaoling Luo<sup>*</sup>, **NeurIPS 2025** 
+
 - [Learning Compact Semantic Information for Incomplete Multi-View Missing Multi-Label Classification](), Jie Wen, Yadong Liu, Zhanyan Tang, Yuting He, Yulong Chen, Mu Li, **Chengliang Liu**<sup>*</sup>, **ICML 2025** (Corresponding author)
 
 - [Partial Multi-View Multi-Label Classification via Semantic Invariance Learning and Prototype Modeling](https://openreview.net/forum?id=5ap1MmUqO6), **Chengliang Liu**, Gehui Xu, Jie Wen<sup>*</sup>, Yabo Liu, Chao Huang, Yong Xu<sup>*</sup>, **ICML 2024**

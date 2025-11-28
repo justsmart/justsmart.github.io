@@ -89,7 +89,7 @@ I am currently a Post-Doctoral Fellow at The Hong Kong Polytechnic University. I
 - [Weakly Supervised Video Anomaly Detection via Self-Guided Temporal Discriminative Transformer](https://ieeexplore.ieee.org/abstract/document/10002867/), Chao Huang<sup>✝</sup>, **Chengliang Liu**<sup>✝</sup>, Jie Wen, Lian Wu, Yong Xu<sup>*</sup>, Qiuping Jiang, Yaowei Wang, IEEE Transactions on Cybernetics, 2022 (Co-first author)
 
 # Honors and Awards
-- *2025.11* Nomination Award for CSIG Doctoral Dissertation Incentive Program.
+- *2025.11* Nomination Award for CSIG Doctoral Dissertation Incentive Program (中国图象图形学会博士学位论文激励计划提名奖).
 - *2024.11* ACM MM 2024 Outstanding reviewer.
 - *2024.06* HIT Outstanding Doctoral Dissertation Award.
 - *2023.10* National Scholarship of the Ministry of Education of China.

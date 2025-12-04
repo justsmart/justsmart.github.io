@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Chengliang Liu (刘成亮)"
-description              : "Postdoctoral fellow at The Hong Kong Polytechnic University"
+description              : "Postdoctoral fellow at University of Macau"
 repository               : "justsmart/justsmart.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -24,7 +24,7 @@ author:
   name             : "Chengliang Liu"
   avatar           : "images/me.png"
   bio              : ""
-  location         : "Hong Kong, China"
+  location         : "Macau, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=ZfVmxqkAAAAJ&hl=zh-CN"

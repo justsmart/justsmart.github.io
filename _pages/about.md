@@ -25,6 +25,7 @@ I am currently a Post-Doctoral Fellow at University of Macau. I got my PhD in th
 # News
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 - *2025.11*: I received the Nomination Award for CSIG Doctoral Dissertation Incentive Program (中国图象图形学会博士学位论文激励计划提名奖)!
+- *2025.11*: We host a Special Issue of Electronics!
 - *2025.09*: Our paper is accepted by NeurIPS 2025! 
 - *2025.05*: Our paper is accepted by ICML 2025! 
 - *2025.02*: Our paper is accepted by TPAMI! 
@@ -35,9 +36,7 @@ I am currently a Post-Doctoral Fellow at University of Macau. I got my PhD in th
 - *2023.06*: Our paper is accepted by TNNLS! 
 - *2023.03*: Our paper is accepted by TNNLS! 
 - *2023.02*: Our paper is accepted by CVPR 2023! 
-- *2023.02*: We win the AAAI 2023 distinguished paper award! 
-- *2022.11*: Three papers are accepted by AAAI 2023!
-- *2022.06*: Our paper is accepted by ACM MM 2022!
+
 
 # Publications 
 <!-- \* Co-first author  &nbsp;&nbsp;&nbsp;\# Corresponding author -->
@@ -95,13 +94,17 @@ I am currently a Post-Doctoral Fellow at University of Macau. I got my PhD in th
 - *2023.10* National Scholarship of the Ministry of Education of China.
 - *2023.02* [AAAI 2023 distinguished paper award](https://aihub.org/2023/02/11/congratulations-to-the-aaai2023-best-paper-winners/).
 
+# Academic Activities
+- Leading Guest Editor of Special Issue of Electronics.
+- Journal Reviewers of IEEE TPAMI, TNNLS, TCSVT, TMM, TKDE, TCYB, TIP.
+- Senior Program Committee member of IJCAI 2025.  
+- Program Committee Members of AAAI, ACM MM, CVPR, ICML, NeurIPS, ICLR, ICCV.
+
+
 # Educations
 - School of Computer Science of Technology, Harbin Institute of Technology, Shenzhen, China. 
 - School of Computer Science of Technology, Huazhong University of Science and Technology, Wuhan, China. 
 - College of Computer Science of Technology, Jilin University, Changchun, China. 
 
-# Academic Activities
-- Journal Reviewers of IEEE TPAMI, TNNLS, TCSVT, TMM, TKDE, TCYB, TIP.
-- Senior Program Committee member of IJCAI 2025.  
-- Program Committee Members of AAAI, ACM MM, CVPR, ICML, NeurIPS, ICLR, ICCV.
+
              

@@ -24,6 +24,7 @@ I am currently a Post-Doctoral Fellow at University of Macau. I got my PhD in th
 
 # News
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+- *2026.01*: Our paper is accepted by ICLR 2026! 
 - *2025.11*: I received the Nomination Award for CSIG Doctoral Dissertation Incentive Program (中国图象图形学会博士学位论文激励计划提名奖)!
 - *2025.11*: We host a Special Issue of Electronics!
 - *2025.09*: Our paper is accepted by NeurIPS 2025! 
@@ -51,7 +52,10 @@ I am currently a Post-Doctoral Fellow at University of Macau. I got my PhD in th
 <!-- - [AAAI 2023 distinguished paper award](https://aihub.org/2023/02/11/congratulations-to-the-aaai2023-best-paper-winners/) -->
 <!-- </div> -->
 <!-- </div> -->
-- [Hierarchical Information Aggregation for Incomplete Multimodal Alzheimer's Disease Diagnosis](), **Chengliang Liu**, Que Yuanxi, Yabo Liu, Jie Wen, Jinghua Wang, Xiaoling Luo<sup>*</sup>, **NeurIPS 2025** 
+- [Permutation-Consistent Variational Encoding for Incomplete Multi-View Multi-Label Classification](), **Chengliang Liu**, Bo Li, Bob Zhang<sup>*</sup>, Xiaoling Luo, Yabo Liu, Jie Wen<sup>*</sup>, **ICLR 2026** 
+
+
+- [Hierarchical Information Aggregation for Incomplete Multimodal Alzheimer's Disease Diagnosis](https://openreview.net/pdf?id=P4KjfMrVNU), **Chengliang Liu**, Yuanxi Que, Yabo Liu, Jie Wen, Jinghua Wang, Xiaoling Luo<sup>*</sup>, **NeurIPS 2025** 
 
 - [Learning Compact Semantic Information for Incomplete Multi-View Missing Multi-Label Classification](), Jie Wen, Yadong Liu, Zhanyan Tang, Yuting He, Yulong Chen, Mu Li, **Chengliang Liu**<sup>*</sup>, **ICML 2025** (Corresponding author)
 

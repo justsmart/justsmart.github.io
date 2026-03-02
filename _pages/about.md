@@ -65,7 +65,7 @@ I am currently a Post-Doctoral Fellow at University of Macau funded by the UM Ta
 
 - [Masked Two-channel Decoupling Framework for Incomplete Multi-view Weak Multi-label Learning](https://openreview.net/forum?id=U4pFV192JQ), **Chengliang Liu**, Jie Wen<sup>*</sup>, Yabo Liu, Chao Huang, Zhihao Wu, Xiaoling Luo, Yong Xu<sup>*</sup>, **NeurIPS 2023** 
 
-- [Localized and Balanced Efficient Incomplete Multi-view Clustering](https://dl.acm.org/doi/abs/10.1145/3581783.3612545), Jie Wen, Gehui Xu, **Chengliang Liu**<sup>*</sup>, Lunke Fei, Chao Huang, Wei Wang<sup>*</sup>, Yong Xu, **ACM MM 2023** (Corresponding author)
+- [Localized and Balanced Efficient Incomplete Multi-view Clustering](https://dl.acm.org/doi/abs/10.1145/3581783.3612545), Jie Wen, Gehui Xu, **Chengliang Liu**<sup>*</sup>, Lunke Fei, Chao Huang, Wei Wang<sup>*</sup>, Yong Xu, **ACM MM 2023** (Co-corresponding author)
 
 - [Highly Confident Local Structure Based Consensus Graph Learning for Incomplete Multi-view Clustering](https://openaccess.thecvf.com/content/CVPR2023/html/Wen_Highly_Confident_Local_Structure_Based_Consensus_Graph_Learning_for_Incomplete_CVPR_2023_paper.html), Jie Wen<sup>✝</sup>, **Chengliang Liu**<sup>✝</sup>, Gehui Xu, Zhihao Wu, Chao Huang, Lunke Fei, Yong Xu<sup>*</sup>, **CVPR 2023** (Co-first author)
 

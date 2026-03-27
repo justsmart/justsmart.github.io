@@ -24,6 +24,7 @@ I am currently a Post-Doctoral Fellow at University of Macau funded by the UM Ta
 
 # News
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+- *2026.03*: We are organizing a [Special Issue on Trustworthy Multimodal Information Fusion for Healthcare](https://www.sciencedirect.com/special-issue/331557/trustworthy-multimodal-information-fusion-for-healthcare-representation-causality-and-human-centered-intelligence) of Information Fusion!
 - *2026.01*: Our paper is accepted by ICLR 2026! 
 - *2025.11*: I received the Nomination Award for CSIG Doctoral Dissertation Incentive Program (中国图象图形学会博士学位论文激励计划提名奖)!
 - *2025.11*: We host a Special Issue of Electronics!
@@ -31,12 +32,7 @@ I am currently a Post-Doctoral Fellow at University of Macau funded by the UM Ta
 - *2025.05*: Our paper is accepted by ICML 2025! 
 - *2025.02*: Our paper is accepted by TPAMI! 
 - *2024.05*: Our paper is accepted by ICML 2024! 
-- *2023.12*: Our paper is accepted by AAAI 2024! 
-- *2023.09*: Our paper is accepted by NeurIPS 2023! 
-- *2023.07*: Our paper is accepted by ACM MM 2023! 
-- *2023.06*: Our paper is accepted by TNNLS! 
-- *2023.03*: Our paper is accepted by TNNLS! 
-- *2023.02*: Our paper is accepted by CVPR 2023! 
+
 
 
 # Publications 
@@ -79,7 +75,6 @@ I am currently a Post-Doctoral Fellow at University of Macau funded by the UM Ta
 - [Pixel-Level Anomaly Detection via Uncertainty-Aware Prototypical Transformer](https://scholar.archive.org/work/tlli7rstvzfcrivc4rnvlcclmi/access/wayback/https://dl.acm.org/doi/pdf/10.1145/3503161.3548082), Chao Huang<sup>✝</sup>, **Chengliang Liu**<sup>✝</sup>, Zheng Zhang<sup>*</sup>, Zhihao Wu, Jie Wen, Qiuping Jiang, Yong Xu<sup>*</sup>, **ACM MM 2022** (Co-first author)
 
 
-
 ## Journal Papers
 - [Reliable Representation Learning for Incomplete Multi-View Missing Multi-Label Classification](https://arxiv.org/html/2303.17117v3), **Chengliang Liu**, Jie Wen<sup>*</sup>, Yong Xu<sup>*</sup>, Bob Zhang, Liqiang Nie, Min Zhang, IEEE Transactions on Pattern Analysis and Machine Intelligence, 2025 
 
@@ -99,7 +94,8 @@ I am currently a Post-Doctoral Fellow at University of Macau funded by the UM Ta
 - *2023.02* [AAAI 2023 distinguished paper award](https://aihub.org/2023/02/11/congratulations-to-the-aaai2023-best-paper-winners/).
 
 # Academic Activities
-- Leading Guest Editor of Special Issue of Electronics.
+- Guest Editor for a Special Issue of Information Fusion.
+- Leading Guest Editor for a Special Issue of Electronics.
 - Journal Reviewers of IEEE TPAMI, TNNLS, TCSVT, TMM, TKDE, TCYB, TIP.
 - Senior Program Committee member of IJCAI 2025.  
 - Program Committee Members of AAAI, ACM MM, CVPR, ICML, NeurIPS, ICLR, ICCV.

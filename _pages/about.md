@@ -24,7 +24,9 @@ I am currently a Research Associate at the University of Macau, funded by the UM
 
 # News
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+
 - *2026.05*: I will serve as the Associate Editor for Pattern Recognition!
+- *2026.04*: Our paper is accepted by IEEE TPAMI! Congratulations to Xu Gehui!  
 - *2026.04*: Our paper is accepted by IEEE TMI! 
 - *2026.03*: We are organizing a [Special Issue on Trustworthy Multimodal Information Fusion for Healthcare](https://www.sciencedirect.com/special-issue/331557/trustworthy-multimodal-information-fusion-for-healthcare-representation-causality-and-human-centered-intelligence) of Information Fusion!
 - *2026.01*: Our paper is accepted by ICLR 2026! 

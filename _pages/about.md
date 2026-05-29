@@ -17,17 +17,18 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Postdoctoral Fellow at the University of Macau, funded by the UM Talent Program. Previously, I worked as a Postdoctoral Fellow at The Hong Kong Polytechnic University and The Hong Kong University of Science and Technology. I received my PhD from the School of Computer Science and Technology at Harbin Institute of Technology, Shenzhen. Prior to that, I obtained a bachelor’s degree in Computer Science from Jilin University and a master’s degree in Computer Science from Huazhong University of Science and Technology. My research interests include machine learning and computer vision, with a particular focus on multi-view and multimodal representation learning.
+I am currently a Research Associate at the University of Macau, funded by the UM Talent Program. Previously, I worked as a Postdoctoral Fellow at The Hong Kong Polytechnic University and The Hong Kong University of Science and Technology. I received my PhD from the School of Computer Science and Technology at Harbin Institute of Technology, Shenzhen. Prior to that, I obtained a bachelor’s degree in Computer Science from Jilin University and a master’s degree in Computer Science from Huazhong University of Science and Technology. My research interests include machine learning and computer vision, with a particular focus on multi-view and multimodal representation learning.
 
 <!--My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).-->
 
 
 # News
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+- *2026.05*: I will serve as the Associate Editor for Pattern Recognition!
 - *2026.04*: Our paper is accepted by IEEE TMI! 
 - *2026.03*: We are organizing a [Special Issue on Trustworthy Multimodal Information Fusion for Healthcare](https://www.sciencedirect.com/special-issue/331557/trustworthy-multimodal-information-fusion-for-healthcare-representation-causality-and-human-centered-intelligence) of Information Fusion!
 - *2026.01*: Our paper is accepted by ICLR 2026! 
-- *2025.11*: I received the Nomination Award for CSIG Doctoral Dissertation Incentive Program (中国图象图形学会博士学位论文激励计划提名奖)!
+- *2025.11*: I received the Nomination Award for CSIG Doctoral Dissertation Incentive Program (中国图像图形学会博士学位论文激励计划提名奖)!
 - *2025.11*: We host a Special Issue of Electronics!
 - *2025.09*: Our paper is accepted by NeurIPS 2025! 
 - *2025.05*: Our paper is accepted by ICML 2025! 
@@ -77,6 +78,8 @@ I am currently a Postdoctoral Fellow at the University of Macau, funded by the U
 
 
 ## Journal Papers
+- [Partial Contrastive Learning for Partially View-aligned Multi-view Clustering](), Gehui Xu#, **Chengliang Liu#**, Yabo Liu, Yong Xu, Jie Wen<sup>*</sup>, IEEE Transactions on Pattern Analysis and Machine Intelligence, 2026 (Co-first author)
+
 - [Multi-view Hilbert Curve-based Hierarchical Information Aggregation for Incomplete Multimodal Alzheimer’s Disease Diagnosis](), **Chengliang Liu**, Yuanxi Que, Wai Keung Wong, Yabo Liu, and Xiaoling Luo<sup>*</sup>, IEEE Transactions on Medical Imaging, 2026
 
 - [Reliable Representation Learning for Incomplete Multi-View Missing Multi-Label Classification](https://arxiv.org/html/2303.17117v3), **Chengliang Liu**, Jie Wen<sup>*</sup>, Yong Xu<sup>*</sup>, Bob Zhang, Liqiang Nie, Min Zhang, IEEE Transactions on Pattern Analysis and Machine Intelligence, 2025 
@@ -97,6 +100,7 @@ I am currently a Postdoctoral Fellow at the University of Macau, funded by the U
 - *2023.02* [AAAI 2023 distinguished paper award](https://aihub.org/2023/02/11/congratulations-to-the-aaai2023-best-paper-winners/).
 
 # Academic Activities
+- Associate Editor of Pattern Recognition
 - Guest Editor for a Special Issue of Information Fusion.
 - Leading Guest Editor for a Special Issue of Electronics.
 - Journal Reviewers of IEEE TPAMI, TNNLS, TCSVT, TMM, TKDE, TCYB, TIP.

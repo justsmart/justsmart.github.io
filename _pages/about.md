@@ -24,7 +24,7 @@ I am currently a Research Associate at the University of Macau, funded by the UM
 
 # News
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
-
+- *2026.07*: Two papers are accepted by ACM MM and PR! 
 - *2026.05*: I will serve as the Associate Editor for Pattern Recognition!
 - *2026.04*: Our paper is accepted by IEEE TPAMI! Congratulations to Xu Gehui!  
 - *2026.04*: Our paper is accepted by IEEE TMI! 
@@ -35,7 +35,7 @@ I am currently a Research Associate at the University of Macau, funded by the UM
 - *2025.09*: Our paper is accepted by NeurIPS 2025! 
 - *2025.05*: Our paper is accepted by ICML 2025! 
 - *2025.02*: Our paper is accepted by IEEE TPAMI! 
-- *2024.05*: Our paper is accepted by ICML 2024! 
+
 
 
 
@@ -52,6 +52,8 @@ I am currently a Research Associate at the University of Macau, funded by the UM
 <!-- - [AAAI 2023 distinguished paper award](https://aihub.org/2023/02/11/congratulations-to-the-aaai2023-best-paper-winners/) -->
 <!-- </div> -->
 <!-- </div> -->
+
+
 - [Permutation-Consistent Variational Encoding for Incomplete Multi-View Multi-Label Classification](), **Chengliang Liu**, Bo Li, Bob Zhang<sup>*</sup>, Xiaoling Luo, Yabo Liu, Jie Wen<sup>*</sup>, **ICLR 2026** 
 
 
@@ -64,6 +66,8 @@ I am currently a Research Associate at the University of Macau, funded by the UM
 - [Attention-Induced Embedding Imputation for Incomplete Multi-View Partial Multi-Label Classification](https://ojs.aaai.org/index.php/AAAI/article/view/29293/30438), **Chengliang Liu**, Jinlong Jia, Jie Wen<sup>*</sup>, Yabo Liu, Xiaoling Luo, Chao Huang, Yong Xu<sup>*</sup>, **AAAI 2024**  
 
 - [Masked Two-channel Decoupling Framework for Incomplete Multi-view Weak Multi-label Learning](https://openreview.net/forum?id=U4pFV192JQ), **Chengliang Liu**, Jie Wen<sup>*</sup>, Yabo Liu, Chao Huang, Zhihao Wu, Xiaoling Luo, Yong Xu<sup>*</sup>, **NeurIPS 2023** 
+
+- [Active Quality Assessment and Hierarchical Aggregation for Incomplete Multi-View Multi-Label Classification](), Kewei Wen, Jun-Tao Tang, Bob Zhang*, Yanghao Zhou, Chao Huang, Jie Wen, **Chengliang Liu**<sup>*</sup>, **ACM MM 2026** 
 
 - [Localized and Balanced Efficient Incomplete Multi-view Clustering](https://dl.acm.org/doi/abs/10.1145/3581783.3612545), Jie Wen, Gehui Xu, **Chengliang Liu**<sup>*</sup>, Lunke Fei, Chao Huang, Wei Wang<sup>*</sup>, Yong Xu, **ACM MM 2023** (Co-corresponding author)
 
@@ -80,7 +84,9 @@ I am currently a Research Associate at the University of Macau, funded by the UM
 
 
 ## Journal Papers
-- [Partial Contrastive Learning for Partially View-aligned Multi-view Clustering](), Gehui Xu#, **Chengliang Liu#**, Yabo Liu, Yong Xu, Jie Wen<sup>*</sup>, IEEE Transactions on Pattern Analysis and Machine Intelligence, 2026 (Co-first author)
+- [M2GO: Multimodal protein function prediction via heterogeneous expert interaction](https://www.sciencedirect.com/science/article/abs/pii/S0031320326013993), Xiaoling Luo, Ruli Zheng, Peng Chen, Xiaopeng Jin, Baoyi Pan, Bob Zhang*, **Chengliang Liu**<sup>*</sup>, Pattern Recognition, 2026, (Co-corresponding author)
+
+- [Partial Contrastive Learning for Partially View-aligned Multi-view Clustering](https://ieeexplore.ieee.org/document/11528570/), Gehui Xu#, **Chengliang Liu#**, Yabo Liu, Yong Xu, Jie Wen<sup>*</sup>, IEEE Transactions on Pattern Analysis and Machine Intelligence, 2026 (Co-first author)
 
 - [Multi-view Hilbert Curve-based Hierarchical Information Aggregation for Incomplete Multimodal Alzheimer’s Disease Diagnosis](), **Chengliang Liu**, Yuanxi Que, Wai Keung Wong, Yabo Liu, and Xiaoling Luo<sup>*</sup>, IEEE Transactions on Medical Imaging, 2026
 

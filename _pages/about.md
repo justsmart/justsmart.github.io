@@ -53,9 +53,9 @@ I am currently a Research Associate at the University of Macau, funded by the UM
 <!-- </div> -->
 <!-- </div> -->
 
+- [Active Quality Assessment and Hierarchical Aggregation for Incomplete Multi-View Multi-Label Classification](), Kewei Wen, Jun-Tao Tang, Bob Zhang*, Yanghao Zhou, Chao Huang, Jie Wen, **Chengliang Liu**<sup>*</sup>, **ACM MM 2026** (Co-corresponding author) 
 
 - [Permutation-Consistent Variational Encoding for Incomplete Multi-View Multi-Label Classification](), **Chengliang Liu**, Bo Li, Bob Zhang<sup>*</sup>, Xiaoling Luo, Yabo Liu, Jie Wen<sup>*</sup>, **ICLR 2026** 
-
 
 - [Hierarchical Information Aggregation for Incomplete Multimodal Alzheimer's Disease Diagnosis](https://openreview.net/pdf?id=P4KjfMrVNU), **Chengliang Liu**, Yuanxi Que, Yabo Liu, Jie Wen, Jinghua Wang, Xiaoling Luo<sup>*</sup>, **NeurIPS 2025** 
 
@@ -66,8 +66,6 @@ I am currently a Research Associate at the University of Macau, funded by the UM
 - [Attention-Induced Embedding Imputation for Incomplete Multi-View Partial Multi-Label Classification](https://ojs.aaai.org/index.php/AAAI/article/view/29293/30438), **Chengliang Liu**, Jinlong Jia, Jie Wen<sup>*</sup>, Yabo Liu, Xiaoling Luo, Chao Huang, Yong Xu<sup>*</sup>, **AAAI 2024**  
 
 - [Masked Two-channel Decoupling Framework for Incomplete Multi-view Weak Multi-label Learning](https://openreview.net/forum?id=U4pFV192JQ), **Chengliang Liu**, Jie Wen<sup>*</sup>, Yabo Liu, Chao Huang, Zhihao Wu, Xiaoling Luo, Yong Xu<sup>*</sup>, **NeurIPS 2023** 
-
-- [Active Quality Assessment and Hierarchical Aggregation for Incomplete Multi-View Multi-Label Classification](), Kewei Wen, Jun-Tao Tang, Bob Zhang*, Yanghao Zhou, Chao Huang, Jie Wen, **Chengliang Liu**<sup>*</sup>, **ACM MM 2026** 
 
 - [Localized and Balanced Efficient Incomplete Multi-view Clustering](https://dl.acm.org/doi/abs/10.1145/3581783.3612545), Jie Wen, Gehui Xu, **Chengliang Liu**<sup>*</sup>, Lunke Fei, Chao Huang, Wei Wang<sup>*</sup>, Yong Xu, **ACM MM 2023** (Co-corresponding author)
 

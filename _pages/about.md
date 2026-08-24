@@ -24,7 +24,8 @@ I am currently a Research Associate at the University of Macau, funded by the UM
 
 # News
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
-- *2026.08*: One paper is accepted by IEEE TIP! 
+- *2026.08*: our paper is accepted by IEEE TPAMI! 
+- *2026.08*: our paper is accepted by IEEE TIP! 
 - *2026.07*: Two papers are accepted by ACM MM and PR! 
 - *2026.05*: I will serve as the Associate Editor for Pattern Recognition!
 - *2026.04*: Our paper is accepted by IEEE TPAMI! Congratulations to Xu Gehui!  
@@ -83,13 +84,15 @@ I am currently a Research Associate at the University of Macau, funded by the UM
 
 
 ## Journal Papers
+- [When Semantically Consistent Encoding Meets View-Label Heterogeneity Modeling: A Unified Framework for Incomplete Multi-View Multi-Label Learning](), Chengliang Liu, Bo Li, Bob Zhang<sup>*</sup>, Yanghao Zhou, Jie Wen<sup>*</sup>, Wenwu Wang, IEEE Transactions on Pattern Analysis and Machine Intelligence, 2026 
+
 - [Noisy-Induced Cross-modal Information Interaction and Dual-Prompt Learning for Medical Image Segmentation](), Chao Huang, Peng Chen, Jie Wen, Wei Wang, Li Shen, Wenqi Ren, Xiaochun Cao, **Chengliang Liu**<sup>*</sup>, IEEE Transactions on Image Processing, 2026, (Corresponding author)
 
 - [M2GO: Multimodal protein function prediction via heterogeneous expert interaction](https://www.sciencedirect.com/science/article/abs/pii/S0031320326013993), Xiaoling Luo, Ruli Zheng, Peng Chen, Xiaopeng Jin, Baoyi Pan, Bob Zhang*, **Chengliang Liu**<sup>*</sup>, Pattern Recognition, 2026, (Co-corresponding author)
 
 - [Partial Contrastive Learning for Partially View-aligned Multi-view Clustering](https://ieeexplore.ieee.org/document/11528570/), Gehui Xu#, **Chengliang Liu#**, Yabo Liu, Yong Xu, Jie Wen<sup>*</sup>, IEEE Transactions on Pattern Analysis and Machine Intelligence, 2026 (Co-first author)
 
-- [Multi-view Hilbert Curve-based Hierarchical Information Aggregation for Incomplete Multimodal Alzheimer’s Disease Diagnosis](), **Chengliang Liu**, Yuanxi Que, Wai Keung Wong, Yabo Liu, and Xiaoling Luo<sup>*</sup>, IEEE Transactions on Medical Imaging, 2026
+- [Multi-view Hilbert Curve-based Hierarchical Information Aggregation for Incomplete Multimodal Alzheimer’s Disease Diagnosis](https://ieeexplore.ieee.org/document/11501972/), **Chengliang Liu**, Yuanxi Que, Wai Keung Wong, Yabo Liu, and Xiaoling Luo<sup>*</sup>, IEEE Transactions on Medical Imaging, 2026
 
 - [Reliable Representation Learning for Incomplete Multi-View Missing Multi-Label Classification](https://arxiv.org/html/2303.17117v3), **Chengliang Liu**, Jie Wen<sup>*</sup>, Yong Xu<sup>*</sup>, Bob Zhang, Liqiang Nie, Min Zhang, IEEE Transactions on Pattern Analysis and Machine Intelligence, 2025 
 

@@ -90,7 +90,7 @@ I am currently a Research Associate at the University of Macau, funded by the UM
 
 - [M2GO: Multimodal protein function prediction via heterogeneous expert interaction](https://www.sciencedirect.com/science/article/abs/pii/S0031320326013993), Xiaoling Luo, Ruli Zheng, Peng Chen, Xiaopeng Jin, Baoyi Pan, Bob Zhang*, **Chengliang Liu**<sup>*</sup>, Pattern Recognition, 2026, (Co-corresponding author)
 
-- [Partial Contrastive Learning for Partially View-aligned Multi-view Clustering](https://ieeexplore.ieee.org/document/11528570/), Gehui Xu#, **Chengliang Liu#**, Yabo Liu, Yong Xu, Jie Wen<sup>*</sup>, IEEE Transactions on Pattern Analysis and Machine Intelligence, 2026 (Co-first author)
+- [Partial Contrastive Learning for Partially View-aligned Multi-view Clustering](https://ieeexplore.ieee.org/document/11528570/), Gehui Xu<sup>✝</sup>, **Chengliang Liu<sup>✝</sup>**, Yabo Liu, Yong Xu, Jie Wen<sup>*</sup>, IEEE Transactions on Pattern Analysis and Machine Intelligence, 2026 (Co-first author)
 
 - [Multi-view Hilbert Curve-based Hierarchical Information Aggregation for Incomplete Multimodal Alzheimer’s Disease Diagnosis](https://ieeexplore.ieee.org/document/11501972/), **Chengliang Liu**, Yuanxi Que, Wai Keung Wong, Yabo Liu, and Xiaoling Luo<sup>*</sup>, IEEE Transactions on Medical Imaging, 2026
 

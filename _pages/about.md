@@ -24,8 +24,8 @@ I am currently a Research Associate at the University of Macau, funded by the UM
 
 # News
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
-- *2026.08*: our paper is accepted by IEEE TPAMI! 
-- *2026.08*: our paper is accepted by IEEE TIP! 
+- *2026.08*: Our paper is accepted by IEEE TPAMI! 
+- *2026.08*: Our paper is accepted by IEEE TIP! 
 - *2026.07*: Two papers are accepted by ACM MM and PR! 
 - *2026.05*: I will serve as the Associate Editor for Pattern Recognition!
 - *2026.04*: Our paper is accepted by IEEE TPAMI! Congratulations to Xu Gehui!  

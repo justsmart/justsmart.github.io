@@ -24,19 +24,20 @@ I am currently a Research Associate at the University of Macau, funded by the UM
 
 # News
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
-- *2026.08*: Our paper is accepted by IEEE TPAMI! 
-- *2026.08*: Our paper is accepted by IEEE TIP! 
-- *2026.07*: Two papers are accepted by ACM MM and PR! 
-- *2026.05*: I will serve as the Associate Editor for Pattern Recognition!
-- *2026.04*: Our paper is accepted by IEEE TPAMI! Congratulations to Xu Gehui!  
-- *2026.04*: Our paper is accepted by IEEE TMI! 
-- *2026.03*: We are organizing a [Special Issue on Trustworthy Multimodal Information Fusion for Healthcare](https://www.sciencedirect.com/special-issue/331557/trustworthy-multimodal-information-fusion-for-healthcare-representation-causality-and-human-centered-intelligence) of Information Fusion!
-- *2026.01*: Our paper is accepted by ICLR 2026! 
-- *2025.11*: I received the Nomination Award for CSIG Doctoral Dissertation Incentive Program (中国图像图形学会博士学位论文激励计划提名奖)!
-- *2025.11*: We host a Special Issue of Electronics!
-- *2025.09*: Our paper is accepted by NeurIPS 2025! 
-- *2025.05*: Our paper is accepted by ICML 2025! 
-- *2025.02*: Our paper is accepted by IEEE TPAMI! 
+- *2026.08*: Our paper is accepted by IJCV! 🎉🎉🎉
+- *2026.08*: Our paper is accepted by IEEE TPAMI! 🎉🎉🎉
+- *2026.08*: Our paper is accepted by IEEE TIP! 🎉🎉
+- *2026.07*: Two papers are accepted by ACM MM and PR! 🎉
+- *2026.05*: I will serve as the Associate Editor for Pattern Recognition! 🎉🎉
+- *2026.04*: Our paper is accepted by IEEE TPAMI! Congratulations to Xu Gehui! 🎉 
+- *2026.04*: Our paper is accepted by IEEE TMI! 🎉🎉
+- *2026.03*: We are organizing a [Special Issue on Trustworthy Multimodal Information Fusion for Healthcare](https://www.sciencedirect.com/special-issue/331557/trustworthy-multimodal-information-fusion-for-healthcare-representation-causality-and-human-centered-intelligence) of Information Fusion! 🎉🎉🎉
+- *2026.01*: Our paper is accepted by ICLR 2026! 🎉🎉
+- *2025.11*: I received the Nomination Award for CSIG Doctoral Dissertation Incentive Program (中国图像图形学会博士学位论文激励计划提名奖)! 🎉🎉🎉
+- *2025.11*: We host a Special Issue of Electronics! 🎉
+- *2025.09*: Our paper is accepted by NeurIPS 2025! 🎉🎉
+- *2025.05*: Our paper is accepted by ICML 2025! 🎉🎉
+- *2025.02*: Our paper is accepted by IEEE TPAMI! 🎉🎉🎉
 
 
 
@@ -84,6 +85,8 @@ I am currently a Research Associate at the University of Macau, funded by the UM
 
 
 ## Journal Papers
+- [Semantic Invariant Representation Learning and Data-Driven Label Prototype Modeling for Incomplete Multi-View Multi-Label Classification](), **Chengliang Liu**, Bo Li, Jie Wen, Yong Xu, Wenqi Ren, Xiaochun Cao, Chao Huang*, International Journal of Computer Vision, 2026
+
 - [When Semantically Consistent Encoding Meets View-Label Heterogeneity Modeling: A Unified Framework for Incomplete Multi-View Multi-Label Learning](), **Chengliang Liu**, Bo Li, Bob Zhang<sup>*</sup>, Yanghao Zhou, Jie Wen<sup>*</sup>, Wenwu Wang, IEEE Transactions on Pattern Analysis and Machine Intelligence, 2026 
 
 - [Noisy-Induced Cross-modal Information Interaction and Dual-Prompt Learning for Medical Image Segmentation](), Chao Huang, Peng Chen, Jie Wen, Wei Wang, Li Shen, Wenqi Ren, Xiaochun Cao, **Chengliang Liu**<sup>*</sup>, IEEE Transactions on Image Processing, 2026, (Corresponding author)

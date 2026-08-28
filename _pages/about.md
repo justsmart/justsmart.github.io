@@ -89,7 +89,7 @@ I am currently a Research Associate at the University of Macau, funded by the UM
 
 - [When Semantically Consistent Encoding Meets View-Label Heterogeneity Modeling: A Unified Framework for Incomplete Multi-View Multi-Label Learning](), **Chengliang Liu**, Bo Li, Bob Zhang<sup>*</sup>, Yanghao Zhou, Jie Wen<sup>*</sup>, Wenwu Wang, IEEE Transactions on Pattern Analysis and Machine Intelligence, 2026 
 
-- [Noisy-Induced Cross-modal Information Interaction and Dual-Prompt Learning for Medical Image Segmentation](), Chao Huang, Peng Chen, Jie Wen, Wei Wang, Li Shen, Wenqi Ren, Xiaochun Cao, **Chengliang Liu**<sup>*</sup>, IEEE Transactions on Image Processing, 2026, (Corresponding author)
+- [Noise-Induced Cross-modal Information Interaction and Dual-Prompt Learning for Medical Image Segmentation](), Chao Huang, Peng Chen, Jie Wen, Wei Wang, Li Shen, Wenqi Ren, Xiaochun Cao, **Chengliang Liu**<sup>*</sup>, IEEE Transactions on Image Processing, 2026, (Corresponding author)
 
 - [M2GO: Multimodal protein function prediction via heterogeneous expert interaction](https://www.sciencedirect.com/science/article/abs/pii/S0031320326013993), Xiaoling Luo, Ruli Zheng, Peng Chen, Xiaopeng Jin, Baoyi Pan, Bob Zhang*, **Chengliang Liu**<sup>*</sup>, Pattern Recognition, 2026, (Co-corresponding author)
 

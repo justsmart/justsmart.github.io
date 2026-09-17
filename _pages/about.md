@@ -24,6 +24,7 @@ I am currently a Research Associate at the University of Macau, funded by the UM
 
 # News
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+- *2026.09*: I am invited to serve as the Area Chair of ICLR 2027! 🎉
 - *2026.08*: Our paper is accepted by IJCV! 🎉🎉🎉
 - *2026.08*: Our paper is accepted by IEEE TPAMI! 🎉🎉🎉
 - *2026.08*: Our paper is accepted by IEEE TIP! 🎉🎉
@@ -85,7 +86,7 @@ I am currently a Research Associate at the University of Macau, funded by the UM
 
 
 ## Journal Papers
-- [Semantic Invariant Representation Learning and Data-Driven Label Prototype Modeling for Incomplete Multi-View Multi-Label Classification](), **Chengliang Liu**, Bo Li, Jie Wen, Yong Xu, Wenqi Ren, Xiaochun Cao, Chao Huang*, International Journal of Computer Vision, 2026
+- [Semantic Invariant Representation Learning and Data-Driven Label Prototype Modeling for Incomplete Multi-View Multi-Label Classification](https://rdcu.be/vetu7mz3Kota), **Chengliang Liu**, Bo Li, Jie Wen, Yong Xu, Wenqi Ren, Xiaochun Cao, Chao Huang*, International Journal of Computer Vision, 2026
 
 - [When Semantically Consistent Encoding Meets View-Label Heterogeneity Modeling: A Unified Framework for Incomplete Multi-View Multi-Label Learning](), **Chengliang Liu**, Bo Li, Bob Zhang<sup>*</sup>, Yanghao Zhou, Jie Wen<sup>*</sup>, Wenwu Wang, IEEE Transactions on Pattern Analysis and Machine Intelligence, 2026 
 
@@ -118,9 +119,9 @@ I am currently a Research Associate at the University of Macau, funded by the UM
 - Associate Editor of Pattern Recognition
 - Guest Editor for a Special Issue of Information Fusion.
 - Leading Guest Editor for a Special Issue of Electronics.
-- Journal Reviewers of IEEE TPAMI, TNNLS, TCSVT, TMM, TKDE, TCYB, TIP.
-- Senior Program Committee member of IJCAI 2025.  
-- Program Committee Members of AAAI, ACM MM, CVPR, ICML, NeurIPS, ICLR, ICCV.
+- Area Chair of ICLR 2027.
+- Senior Program Committee member of IJCAI 2025, AAAI 2026.  
+
 
 
 # Educations

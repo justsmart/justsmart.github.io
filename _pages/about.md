@@ -24,22 +24,22 @@ I am currently a Research Associate at the University of Macau, funded by the UM
 
 # News
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
-- *2026.09*: One paper is accepted by NeurIPS 2026! Congratulations to Liu Pingzhu! 🎉🎉
+- *2026.09*: One paper is accepted by NeurIPS 2026! Congratulations to Pingzhu! 🎉🎉
 - *2026.09*: I am invited to serve as the Area Chair of ICLR 2027! 🎉
-- *2026.08*: Our paper is accepted by IJCV! 🎉🎉🎉
-- *2026.08*: Our paper is accepted by IEEE TPAMI! 🎉🎉🎉
-- *2026.08*: Our paper is accepted by IEEE TIP! 🎉🎉
+- *2026.08*: One paper is accepted by IJCV! 🎉🎉🎉
+- *2026.08*: One paper is accepted by IEEE TPAMI! 🎉🎉🎉
+- *2026.08*: One paper is accepted by IEEE TIP! 🎉🎉
 - *2026.07*: Two papers are accepted by ACM MM and PR! 🎉
 - *2026.05*: I will serve as the Associate Editor for Pattern Recognition! 🎉🎉
-- *2026.04*: Our paper is accepted by IEEE TPAMI! Congratulations to Xu Gehui! 🎉 
-- *2026.04*: Our paper is accepted by IEEE TMI! 🎉🎉
+- *2026.04*: One paper is accepted by IEEE TPAMI! Congratulations to Gehui! 🎉 
+- *2026.04*: One paper is accepted by IEEE TMI! 🎉🎉
 - *2026.03*: We are organizing a [Special Issue on Trustworthy Multimodal Information Fusion for Healthcare](https://www.sciencedirect.com/special-issue/331557/trustworthy-multimodal-information-fusion-for-healthcare-representation-causality-and-human-centered-intelligence) of Information Fusion! 🎉🎉🎉
-- *2026.01*: Our paper is accepted by ICLR 2026! 🎉🎉
+- *2026.01*: One paper is accepted by ICLR 2026! 🎉🎉
 - *2025.11*: I received the Nomination Award for CSIG Doctoral Dissertation Incentive Program (中国图像图形学会博士学位论文激励计划提名奖)! 🎉🎉🎉
 - *2025.11*: We host a Special Issue of Electronics! 🎉
-- *2025.09*: Our paper is accepted by NeurIPS 2025! 🎉🎉
-- *2025.05*: Our paper is accepted by ICML 2025! 🎉🎉
-- *2025.02*: Our paper is accepted by IEEE TPAMI! 🎉🎉🎉
+- *2025.09*: One paper is accepted by NeurIPS 2025! 🎉🎉
+- *2025.05*: One paper is accepted by ICML 2025! 🎉🎉
+- *2025.02*: One paper is accepted by IEEE TPAMI! 🎉🎉🎉
 
 
 

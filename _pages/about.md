@@ -24,6 +24,7 @@ I am currently a Research Associate at the University of Macau, funded by the UM
 
 # News
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+- *2026.09*: One paper is accepted by NeurIPS 2026! Congratulations to Liu Pingzhu! 🎉🎉
 - *2026.09*: I am invited to serve as the Area Chair of ICLR 2027! 🎉
 - *2026.08*: Our paper is accepted by IJCV! 🎉🎉🎉
 - *2026.08*: Our paper is accepted by IEEE TPAMI! 🎉🎉🎉
@@ -56,6 +57,7 @@ I am currently a Research Associate at the University of Macau, funded by the UM
 <!-- - [AAAI 2023 distinguished paper award](https://aihub.org/2023/02/11/congratulations-to-the-aaai2023-best-paper-winners/) -->
 <!-- </div> -->
 <!-- </div> -->
+- [View Confidence Perception-Driven Incremental Prediction for Incomplete Multi-view Multi-label Learning](), Pingzhu Liu, Chunming He, Zunnan Xu, Zhirui Fang, Zitong YU, Xiu Li, **Chengliang Liu<sup>*</sup>**, **NeurIPS 2026** (Corresponding author) 
 
 - [Active Quality Assessment and Hierarchical Aggregation for Incomplete Multi-View Multi-Label Classification](), Kewei Wen, Jun-Tao Tang, Bob Zhang*, Yanghao Zhou, Chao Huang, Jie Wen, **Chengliang Liu**<sup>*</sup>, **ACM MM 2026** (Co-corresponding author) 
 

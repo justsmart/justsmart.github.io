@@ -122,6 +122,7 @@ I am currently a Research Associate at the University of Macau, funded by the UM
 - Guest Editor for a Special Issue of Information Fusion.
 - Leading Guest Editor for a Special Issue of Electronics.
 - Area Chair of ICLR 2027.
+- Youth Editor of The Innovation AI Plus.
 - Senior Program Committee member of IJCAI 2025, AAAI 2026.  
 
 
